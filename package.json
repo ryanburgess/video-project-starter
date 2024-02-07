@@ -1,8 +1,12 @@
 {
   "name": "video-project-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Video Project Starter",
   "main": "start.js",
+  "preferGlobal": true,
+  "bin": {
+    "vps": "./bin/start"
+  },
   "scripts": {
     "build": "",
     "postmerge": "",
