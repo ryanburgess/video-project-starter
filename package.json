@@ -1,0 +1,27 @@
+{
+  "name": "video-project-starter",
+  "version": "0.0.1",
+  "description": "Video Project Starter",
+  "main": "start.js",
+  "scripts": {
+    "build": "",
+    "postmerge": "",
+    "postrewrite": "",
+    "start": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanburgess/video-project-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanburgess/video-project-starter/issues"
+  },
+  "homepage": "https://github.com/ryanburgess/video-project-starter",
+  "devDependencies": {},
+  "dependencies": {
+    "mkdirp": "^3.0.1"
+  }
+}
