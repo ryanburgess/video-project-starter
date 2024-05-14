@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const mkdirp = require('mkdirp');
-const folders = ['music', 'iPhone', 'DJI-Mini-4-Pro', 'Canon5D'];
+const folders = ['audio', 'iPhone', 'DJI-Mini-4-Pro', 'Canon5D', 'CanonR5'];
 
 // create today's date for the initial folder
 let todayDate = new Date()
